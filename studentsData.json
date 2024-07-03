@@ -1,0 +1,25 @@
+{
+    "Students": {
+        "656229": {
+            "name": "Marcelo Leite",
+            "class": "Manha 7 A",
+            "starting_year": 2017,
+            "total_presence": 54,
+            "last_presence_time": "2024-07-02 23:51:07"
+        },
+        "852741": {
+            "name": "Emly Blunt",
+            "class": "Manha 7 A",
+            "starting_year": 2021,
+            "total_presence": 12,
+            "last_presence_time": "2024-07-02 00:54:34"
+        },
+        "963852": {
+            "name": "Elon Musk",
+            "class": "Tarde 8 D",
+            "starting_year": 2020,
+            "total_presence": 32,
+            "last_presence_time": "2024-07-02 23:51:13"
+        }
+    }
+}
