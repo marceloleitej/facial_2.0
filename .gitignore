@@ -1,3 +1,5 @@
 /serviceAccountKey.json
 /EncodeFile.p
-
+# Ignorar pastas de ambientes virtuais
+3_7_venv/
+venv/
